@@ -1,0 +1,21 @@
+{
+  "name": "api-graphql-express",
+  "version": "1.0.0",
+  "description": "Sample of implementation graphql with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
